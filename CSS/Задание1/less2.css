@@ -1,0 +1,24 @@
+pre {text-transform: uppercase;}
+
+p {
+    color: green;
+    letter-spacing: 1cm;
+    text-transform: lowercase;
+}
+
+ul {
+    color: #dda0dd;
+    text-decoration: overline;
+}
+
+ol {
+    color: rgb(0, 0, 255);
+    text-align: center;
+    text-decoration: line-through;
+}
+
+li {letter-spacing: 5px;}
+
+h1 {color: red;}
+
+.back {background-color: gray;}
